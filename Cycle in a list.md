@@ -20,8 +20,8 @@ function cycle(linkedList) {
 
 function main() {
 	const CycleList = new LinkedList;
-  
-  CycleList.insertLast(1);
+	
+	CycleList.insertLast(1);
 	CycleList.insertLast(2);
 	CycleList.insertLast(3);
 	CycleList.insertLast(4);
@@ -31,8 +31,8 @@ function main() {
 	CycleList.insertLast(8);
 	CycleList.insertLast(9);
   
-  CycleList.find(6)
-  CycleList.find(1)
+	CycleList.find(6)
+	CycleList.find(1)
 
 	console.log(cycle(CycleList), "cycle");
 }
