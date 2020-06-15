@@ -2,7 +2,8 @@
 
 Implement the following functions that operate on your linked list class. Note that these should be free functions instead of methods of the linked list class, so implement them outside the linked list class. Test each function using the list created in exercise 1.
 
-- display: displays the linked list size: returns the size of the linked list
+- display: displays the linked list 
+  - size: returns the size of the linked list
 ```
 function display(linkedList) {
   //displays the linked list size: returns the size of the linked list
