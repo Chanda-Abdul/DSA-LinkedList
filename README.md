@@ -5,7 +5,7 @@ A repository for my Data Structures &amp; Algorithms Linked Lists drills
 In these drills, you'll practice creating a linked list, implementing its core, and some supplemental operations. You will also use your linked list to solve interview questions. Don't forget to assess the big O for each of these exercises. Start each problem by stating 1 or more sample inputs and outputs.
 
 ## Create a linked list class
-Walk through the linked list code in the curriculum and understand it well. Then write a linked list class and its core functions ``(insertFirst, insertLast, remove, find) from scratch.``
+Walk through the linked list code in the curriculum and understand it well. Then write a linked list class and its core functions ``(insertFirst, insertLast, remove, find)`` from scratch.
 
 ## Creating a singly linked list
 
