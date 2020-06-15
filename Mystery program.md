@@ -19,3 +19,7 @@ function WhatDoesThisProgramDo(lst) {
     }
 }
 ````
+
+This function checks the value of one node and compares it to another node, then removes the duplicates
+
+The time complexity of this is linear O(n^2) because of the nested loops
