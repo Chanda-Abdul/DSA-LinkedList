@@ -53,16 +53,19 @@ function WhatDoesThisProgramDo(lst) {
 ````
 
 ## Reverse a list
-Write an algorithm to reverse a linked list. The time complexity of your algorithm should be linear (O(n)). For this exercise, notice we are not asking you just to print the linked list in reverse or use another linked list to store the value in reverse order. Your program should reverse the direction of a given singly linked list. In other words, all pointers should point backward. BONUS: Solve this problem using both recursive and iterative algorithms.
+- Write an algorithm to reverse a linked list. 
+- The time complexity of your algorithm should be linear (O(n)). 
+- For this exercise, notice we are not asking you just to print the linked list in reverse or use another linked list to store the value in reverse order. 
+- Your program should reverse the direction of a given singly linked list. In other words, all pointers should point backward. - BONUS: Solve this problem using both recursive and iterative algorithms.
 
 ## 3rd from the end
-Write an algorithm to find the 3rd element from the end of a linked list. Note You may be tempted to add a length property to your linked list class. The length property is not a typical property of linked list, therefore don't make any modification to the linked list class that is provided to you.
+- Write an algorithm to find the 3rd element from the end of a linked list. Note You may be tempted to add a length property to your linked list class. The length property is not a typical property of linked list, therefore don't make any modification to the linked list class that is provided to you.
 
 ## Middle of a list
-Write an algorithm to find the middle element of a linked list. Note You may be tempted to add a length property to your linked list class. The length property is not a typical property of linked list, therefore don't make any modification to the linked list class that is provided to you. Also, finding the size of the linked list using the size() function and dividing it by half will not find the correct middle of the linked list. So, don't use either of these approaches.
+Write an algorithm to find the middle element of a linked list. Note You may be tempted to add a length property to your linked list class. The length property is not a typical property of linked list, therefore don't make any modification to the linked list class that is provided to you. Also, finding the size of the linked list using the `size()` function and dividing it by half will not find the correct middle of the linked list. So, don't use either of these approaches.
 
 ## Cycle in a list
-Write an algorithm to find whether a linked list has a cycle (i.e., whether a node in the list has its next value pointing to an earlier node in the list). For this exercise, create a linked list with the name CycleList. Be sure to insert nodes in the list so that it has a cycle. Then test your program with a cycleList function.
+Write an algorithm to find whether a linked list has a cycle (i.e., whether a node in the list has its next value pointing to an earlier node in the list). For this exercise, create a linked list with the name `CycleList`. Be sure to insert nodes in the list so that it has a cycle. Then test your program with a `cycleList` function.
 
 ## Sorting a list
 
