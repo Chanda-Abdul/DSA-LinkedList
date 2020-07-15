@@ -101,6 +101,7 @@ insertAt(item, position) {
       currNode = currNode.next
       currPosition++
     }
+    }
   ````
 - Add Athena before Boomer using your insertBefore() function. 
 ```
