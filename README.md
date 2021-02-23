@@ -4,6 +4,21 @@ A repository for my Data Structures &amp; Algorithms Linked Lists drills
 
 In these drills, you'll practice creating a linked list, implementing its core, and some supplemental operations. You will also use your linked list to solve interview questions. Don't forget to assess the big O for each of these exercises. Start each problem by stating 1 or more sample inputs and outputs.
 
+# LeetCode Problem Set
+
+- [ ] [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) 
+<!-- & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/20.%20Valid%20Parentheses(Strings).md)-->
+- [ ] [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) 
+<!-- & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/20.%20Valid%20Parentheses(Strings).md)-->
+- [ ] [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) 
+<!-- & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/20.%20Valid%20Parentheses(Strings).md)-->
+- [ ] [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) 
+<!-- & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/20.%20Valid%20Parentheses(Strings).md)-->
+- [ ] [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) 
+<!-- & [My Solution](https://github.com/ChandaHubbard/leetcode/blob/master/20.%20Valid%20Parentheses(Strings).md)-->
+
+# Techniques to solve problems using Linked Lists
+
 ## Create a linked list class
 Walk through the linked list code in the curriculum and understand it well. Then write a linked list class and its core functions ``(insertFirst, insertLast, remove, find)`` from scratch.
 
